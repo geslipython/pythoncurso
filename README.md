@@ -7,3 +7,4 @@ Nesse curso é ensinado como contruir com projetos de código aberto
 
 
 Link do curso [Python Pro](https://pythonpro.com.br/)
+
