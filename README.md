@@ -10,6 +10,7 @@ Link do curso[Python Pro](https://pythonpro.com.br/)
 
 1. Pip
 2. alteração
+3. teste
 
 
 
