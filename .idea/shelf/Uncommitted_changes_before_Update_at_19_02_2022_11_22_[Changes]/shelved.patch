@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># pythoncurso\r\n\r\n\r\nModulo para desenvolver projetos do Curso Python\r\nAdi\r\nNesse curso é ensinado como contruir com projetos de código aberto\r\n\r\n\r\nLink do curso [Python Pro](https://pythonpro.com.br/)\r\n\r\n\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 2f4f5597359423e2427fcf44d88fc673743bd288)
++++ b/README.md	(date 1645280513589)
+@@ -2,7 +2,7 @@
+ 
+ 
+ Modulo para desenvolver projetos do Curso Python
+-Adi
++
+ Nesse curso é ensinado como contruir com projetos de código aberto
+ 
+ 
